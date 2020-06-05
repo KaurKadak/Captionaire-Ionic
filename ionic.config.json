@@ -1,0 +1,7 @@
+{
+  "name": "IG Captionator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
