@@ -1,0 +1,70 @@
+.wide {
+    width: 100%;
+}
+
+.author-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 7px 6px 17px;
+    border-radius: 0px;
+    background-color: #f4f5f8;
+    -webkit-box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+    -moz-box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+    box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+    margin: 2px 10px 5px 5px;
+        
+}
+
+.button-container {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 10px;
+    position: absolute;
+    right: 0px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-img{
+    padding: 10px 13px 13px 10px;
+    background-color: white;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+.title-text {
+    padding-bottom: 5px;
+}
+
+.border {
+    border: 1px red solid;
+    
+}
+
+.choices{
+    background-color: #f4f5f8;
+    border-radius: 0px;
+    margin: 10px 0px;
+    -webkit-box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+    -moz-box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+    box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+}
+
+.alert-bg .alert-wrapper{
+    background-color: white;
+}
+
+ion-card{
+border-radius: 0;
+-webkit-box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+    -moz-box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+    box-shadow: 9px 10px 9px -5px rgba(0,0,0,0.31);
+}
+
